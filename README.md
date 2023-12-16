@@ -1,7 +1,7 @@
 # Email Drafter app
 
-This repositrory represents my project created for authomated drafts creation using Google API.
-Google Cloud project was created with [official guide]((https://developers.google.com/docs/api/quickstart/python))
+This repositrory represents my project created for authomated drafts creation using Google API.\
+Google Cloud project was created with [official guide](https://developers.google.com/docs/api/quickstart/python)\
 In this project I used OOP because is provides a clear and organized structure, class can be reused with different parameters (reusabillity), and simply because I use OOP almost always.
 
 __main.py__ is the main file and it includes a class EmailDrafter with three funcitons:
